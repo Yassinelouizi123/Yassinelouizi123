@@ -9,7 +9,7 @@
 
 ### 👨‍💻 About Me
 
-🎓 I'm a first-year engineering student at **ENSAM Casablanca**, majoring in **Cybersecurity and Cloud Computing**  
+🎓 I'm a third-year engineering student at **ENSAM Casablanca**, majoring in **Cybersecurity and Cloud Computing**  
 🛡️ Passionate about ethical hacking, system hardening, and secure software design  
 🧠 Fast learner and problem solver, actively working on hands-on security & automation projects  
 📈 Interested in cryptography, vulnerability assessment, automation, and system design  
