@@ -71,9 +71,10 @@
 
 ### 🧪 Notable Projects
 
-- 🔍 **[Gestionnaire d'Automates Finis](https://github.com/Yassinelouizi123/gestion-automates)** – Role-based secure login, SQL injection prevention (Python)
-- 🌐 **[WEB Scraper](https://github.com/Yassinelouizi123/Dofocus-Item-Scraper)** – GUI for automated web scraping & multi-threaded data export
-- 🧠 **[TryHackMe Free Rooms](https://github.com/Yassinelouizi123/tryhackme-free-rooms)** – Curated CTF room list to help others start hacking
+- 🌐 **[My Portfolio Website](https://yassine-louizi.vercel.app/)** – Personal site showcasing my projects, skills, and experience, built with React and Next.js  
+- 🔍 **[Gestionnaire d'Automates Finis](https://github.com/Yassinelouizi123/gestion-automates)** – Secure finite automata manager with role-based authentication and SQL injection prevention (Python)  
+- 🌐 **[WEB Scraper](https://github.com/Yassinelouizi123/Dofocus-Item-Scraper)** – GUI tool for automated web scraping with multi-threaded data export and session management
+
 
 ---
 
