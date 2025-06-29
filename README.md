@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Web vulnerability scanning using OWASP ZAP, Nikto, and other ethical hacking tools.**
 
-- 👨‍💻 All of my projects are available at [https://yassine-louizi.vercel.app/ or https://github.com/Yassinelouizi123](https://yassine-louizi.vercel.app/ or https://github.com/Yassinelouizi123)
+- 👨‍💻 All of my projects are available at [https://yassine-louizi.vercel.app/ or https://github.com/Yassinelouizi123]
 
 - 📫 How to reach me **louiziyassine003@gmail.com**
 
