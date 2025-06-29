@@ -19,8 +19,7 @@
 
 ### 🔭 I’m currently working on
 
-- 🛰️ **Network Routing Visualizer** – Simulates Dijkstra-based routing and node compromises [GitHub](https://github.com/Yassinelouizi123/network-viz-)
-- 🧑‍🎓 **Portfolio Website (v2)** – React + Next.js based developer showcase [Live](https://yassine-louizi.vercel.app/)
+  **Nothing ** 
 
 ---
 
@@ -55,7 +54,7 @@
 
 ### 📄 Know about my experience
 
-[📂 Resume (Google Drive)](https://drive.google.com/your-cv-link) *(upload it and replace this link)*
+[📂 Resume (Google Drive)](https://drive.google.com/file/d/1i1HMapNxDi0zv-H6LDJkGlZvJA7kbrci/view?usp=sharing) 
 
 ---
 
@@ -73,7 +72,7 @@
 ### 🧪 Notable Projects
 
 - 🔍 **[Gestionnaire d'Automates Finis](https://github.com/Yassinelouizi123/gestion-automates)** – Role-based secure login, SQL injection prevention (Python)
-- 🌐 **[DoFocus Scraper](https://github.com/Yassinelouizi123/Dofocus-Item-Scraper)** – GUI for automated web scraping & multi-threaded data export
+- 🌐 **[WEB Scraper](https://github.com/Yassinelouizi123/Dofocus-Item-Scraper)** – GUI for automated web scraping & multi-threaded data export
 - 🧠 **[TryHackMe Free Rooms](https://github.com/Yassinelouizi123/tryhackme-free-rooms)** – Curated CTF room list to help others start hacking
 
 ---
