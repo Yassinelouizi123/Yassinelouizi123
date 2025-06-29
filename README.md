@@ -19,7 +19,7 @@
 
 ### 🔭 I’m currently working on
 
-  **Nothing ** 
+   Nothing
 
 ---
 
