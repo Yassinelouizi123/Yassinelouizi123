@@ -15,32 +15,7 @@
 📈 Interested in cryptography, vulnerability assessment, automation, and system design  
 🛠️ Always exploring new tools like OWASP ZAP, Nikto, Proxmox, and Fortinet solutions
 
----
 
-### 🔭 I’m currently working on
-
-   Nothing
-
----
-
-### 🤝 I’m looking to collaborate on
-
-- 🧪 Ethical hacking toolkits and beginner-friendly CTF content  
-- 🧵 Web automation and data scraping tools using Python & Selenium
-
----
-
-### 🌱 I’m currently learning
-
-- 🔍 **Web vulnerability scanning** using OWASP ZAP, Nikto  
-- 🧰 **Cloud & infra tools** like Proxmox VE, Fortinet FCP, and VirtualBox  
-- ⚙️ Advanced Bash scripting and network security analysis
-
----
-
-### 💬 Ask me about
-
-- Python, Bash, React, SQL security, TryHackMe labs, network routing, or automating web scraping
 
 ---
 
@@ -51,9 +26,6 @@
 - **🌐 Portfolio:** [yassine-louizi.vercel.app](https://yassine-louizi.vercel.app/)
 
 ---
-
-
-
 
 
 
