@@ -52,31 +52,11 @@
 
 ---
 
-### 📄 Know about my experience
-
-[📂 Resume (Google Drive)](https://drive.google.com/file/d/1i1HMapNxDi0zv-H6LDJkGlZvJA7kbrci/view?usp=sharing) 
-
----
-
-### 🧠 Certifications
-
-- 🧩 Cisco CCNA: Introduction to Networks  
-- 🔐 Cisco Cybersecurity Essentials  
-- 🌐 Cisco Networking Essentials  
-- 💻 Red Hat – Python Programming 9.0  
-- 🧾 CLA – C Programming Essentials  
-- 🔒 Preparing: **Fortinet FCP 7.4 Administrator**
-
----
-
-### 🧪 Notable Projects
-
-- 🌐 **[My Portfolio Website](https://yassine-louizi.vercel.app/)** – Personal site showcasing my projects, skills, and experience, built with React and Next.js  
-- 🔍 **[Gestionnaire d'Automates Finis](https://github.com/Yassinelouizi123/gestion-automates)** – Secure finite automata manager with role-based authentication and SQL injection prevention (Python)  
-- 🌐 **[WEB Scraper](https://github.com/Yassinelouizi123/Dofocus-Item-Scraper)** – GUI tool for automated web scraping with multi-threaded data export and session management
 
 
----
+
+
+
 
 ### 🛠️ Languages and Tools
 
